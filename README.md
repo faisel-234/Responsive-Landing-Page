@@ -1,4 +1,4 @@
-# 🌍 Voices of Resilience — Refugee Life Awareness
+# 🌍 Voices of Resilience — Refugee Life Awareness ( Also guidence for your practices and usages, you can simple follow them)
 
 > A responsive, accessible landing page built with pure HTML5 and CSS3.  
 > Created by a developer **living inside a refugee camp**, raising awareness about refugee life, resilience, and the strength of communities worldwide.
@@ -8,16 +8,10 @@
 ## 🖥️ Live Preview
 
 <!-- Replace with your GitHub Pages URL after deploying -->
-🔗 **[View Live Site](https://your-username.github.io/refugee-life-awareness)**
+🔗 **[View Live Site](https://github.com/faisel-234/Responsive-Landing-Page)**
 
 ---
 
-## 📸 Screenshots
-
-<!-- Add screenshots after adding your photos -->
-> Photos coming soon — I am adding real photos from life inside the camp.
-
----
 
 ## 📁 Project Structure
 
@@ -27,8 +21,7 @@ refugee-life-awareness/
 ├── index.html          ← Main landing page (all sections)
 ├── css/
 │   └── style.css       ← Complete stylesheet (700+ lines, well-commented)
-├── images/
-│   └── (your photos)   ← Add your own photos here
+│   ─ ( photos)   ← Add your own photos here
 └── README.md           ← This file
 ```
 
@@ -99,15 +92,6 @@ open index.html     # macOS
 
 ---
 
-## 🌐 Deploy to GitHub Pages (Free Hosting)
-
-1. Push this project to a GitHub repository
-2. Go to **Settings → Pages**
-3. Under "Source", select **main branch / root**
-4. Click **Save**
-5. Your site will be live at: `https://your-username.github.io/refugee-life-awareness`
-
----
 
 ## 🖼️ Adding Your Own Photos
 
